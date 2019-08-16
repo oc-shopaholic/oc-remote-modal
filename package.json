@@ -1,0 +1,28 @@
+{
+  "name": "oc-remote-modal",
+  "author": "lovata",
+  "version": "0.0.1",
+  "description": "Package adds helper methods to load and show modals added by ajax",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "OctoberCMS",
+    "Modal",
+    "Remote Modal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oc-shopaholic/oc-remote-modal.git"
+  },
+  "dependencies": {
+    "@oc-shopaholic/oc-request": "0.1.1",
+    "@lovata/modal": "0.0.7"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/lovata/oc-shopaholic-js-helper/issues"
+  },
+  "homepage": "https://github.com/lovata/oc-shopaholic/tree/master/packages/oc-remote-modal#readme",
+  "main": "oc-remote-modal.js"
+}
