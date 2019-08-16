@@ -78,4 +78,4 @@ RemoteModal.addClickListener('.open-modal-element', 'path/to/modal');
 const button = document.querySelector('#button');
 
 RemoteModal.addClickListener(button, 'path/to/modal');
-```# oc-remote-modal
+```
