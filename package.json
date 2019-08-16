@@ -1,7 +1,7 @@
 {
   "name": "oc-remote-modal",
   "author": "lovata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Package adds helper methods to load and show modals added by ajax",
   "license": "GPL-3.0-or-later",
   "keywords": [
